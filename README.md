@@ -18,7 +18,7 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on a Netfl
 
 ## ❓ Questions Answered
 
-| # | Question | Answer |
+|  #   | Question  | Answer  |
 |---|----------|--------|
 | 1 | What is the most frequent genre of movies on Netflix? | **Drama** (3,744 occurrences) |
 | 2 | Which genre has the highest votes? | Movies in the **'popular'** vote tier dominate |
