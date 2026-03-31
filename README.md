@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies — "Exploratory Data Analysis"(EDA)
+# 🎬 Netflix  Movies  — " Exploratory Data Analysis "(EDA)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
@@ -10,13 +10,13 @@
 
 ---
 
-## 📌 Project Overview
+## 📌  Project Overview
 
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on a Netflix movies dataset (`Netflix.csv`). The goal is to answer five key analytical questions about genre frequency, audience voting patterns, popularity extremes, and content release trends.
 
 ---
 
-## ❓ Questions Answered
+## ❓  Questions Answered
 
 |  #   | Question  | Answer  |
 |---|----------|--------|
