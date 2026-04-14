@@ -10,13 +10,13 @@
 
 ---
 
-## 📌  Project Overview
+## 📌Project Overview
 
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on a Netflix movies dataset (`Netflix.csv`). The goal is to answer five key analytical questions about genre frequency, audience voting patterns, popularity extremes, and content release trends.
 
 ---
 
-## ❓  Questions Answered
+## ❓Questions Answered
 
 |  #   | Question  | Answer  |
 |---|----------|--------|
