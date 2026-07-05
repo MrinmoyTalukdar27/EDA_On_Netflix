@@ -1,4 +1,4 @@
-# 🎬 Netflix  Movies —Exploratory Data Analysis.
+# 🎬 Netflix  Movies :-Exploratory Data Analysis.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
